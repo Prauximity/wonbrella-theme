@@ -1,0 +1,58 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Direct Lending & Banking</h1>
+    <p>Powered by i3 Lending — Lori Marotta, the Mom of Mortgages. Refinancing, HELOC, and lending solutions aligned with your protection plan.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        <h2 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 20px;">Enhancing Your Insurance & Financial Power</h2>
+        <p>At Wonbrella, we partner with i3 Lending to offer you a unique combination of financial security and peace of mind. Our collaboration brings together comprehensive insurance protection and innovative lending solutions — ensuring a holistic approach to safeguarding your family's future.</p>
+
+        <h3 style="font-size: 22px; margin: 32px 0 16px;">Lower Monthly Payments and Financial Flexibility</h3>
+        <p>Refinancing your mortgage can significantly lower your monthly payments, freeing up funds for essential insurance products. This financial flexibility allows you to secure comprehensive coverage without straining your budget.</p>
+
+        <h3 style="font-size: 22px; margin: 32px 0 16px;">Home Equity Lines of Credit (HELOC) as a Financial Cushion</h3>
+        <p>HELOCs provide access to your home's equity, offering a financial cushion for unexpected expenses. This resource enhances your ability to invest in robust insurance plans while preparing for unforeseen events without compromising your financial stability.</p>
+
+        <ul class="product-features">
+          <li>Refinancing to lower your mortgage rate</li>
+          <li>HELOC for emergency funds and major purchases</li>
+          <li>Align your lending and protection strategies</li>
+          <li>Free up cash flow for insurance coverage</li>
+          <li>Protect your home and your family's future</li>
+          <li>One trusted partner for lending and insurance</li>
+        </ul>
+
+        <a href="/pages/contact-us" class="btn btn-primary">Explore Lending Options</a>
+      </div>
+      <div>
+        <div style="background: linear-gradient(165deg, #1E3A5F 0%, #2A4F7A 100%); border-radius: 20px; padding: 48px; color: white;">
+          <div style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 16px;">Powered by i3 Lending</div>
+          <h3 style="color: white; font-size: 24px; margin-bottom: 20px;">Lori Marotta — The Mom of Mortgages</h3>
+          <p style="font-size: 15px; opacity: 0.85; margin-bottom: 28px; line-height: 1.7;">Our partnership brings together insurance protection and mortgage expertise under one roof. Get the full picture of your financial future with advisors who see the whole game.</p>
+          <ul style="list-style: none; font-size: 15px; line-height: 2;">
+            <li>✓ Mortgage refinancing experts</li>
+            <li>✓ HELOC specialists</li>
+            <li>✓ Coordinated with your insurance plan</li>
+            <li>✓ Family-owned, client-first approach</li>
+          </ul>
+          <a href="/pages/contact-us" class="btn btn-primary" style="margin-top: 28px; width: 100%;">Connect With Lori</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Your Home. Your Insurance. Your Future.</h2>
+    <p>Combine the right mortgage strategy with the right protection plan. One conversation — your full financial picture.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Schedule Your Consultation</a>
+  </div>
+</section>

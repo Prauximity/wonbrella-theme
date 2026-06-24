@@ -1,0 +1,58 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Term Life Insurance</h1>
+    <p>Affordable, flexible coverage for the years that matter most. Protection aligned with your specific goals and obligations.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        <h2 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 20px;">How Does Term Life Work?</h2>
+        <p>Term Life insurance is basic coverage for a set period — offering a death benefit without cash value or investment features. It's simple, affordable, and ideal for specific financial obligations like mortgages, income replacement, or providing for young children.</p>
+        <p>Choose your term based on your obligations (15 to 30 years of protection) and review your coverage as your circumstances change.</p>
+
+        <h3 style="font-size: 22px; margin: 32px 0 16px;">Is Term Life Right for You?</h3>
+        <p>If you're seeking affordable and flexible life insurance that aligns with specific time-bound goals, you're in the right place. Term Life Insurance provides straightforward coverage ensuring a lump-sum payout to your loved ones if the unexpected occurs during the policy term.</p>
+
+        <ul class="product-features">
+          <li>Lowest cost per dollar of coverage</li>
+          <li>Coverage terms from 10 to 30 years</li>
+          <li>Ideal for mortgage protection</li>
+          <li>Perfect for young families</li>
+          <li>Convert to permanent coverage later</li>
+          <li>Simple, straightforward structure</li>
+          <li>Renewable at term's end</li>
+        </ul>
+
+        <a href="/pages/contact-us" class="btn btn-primary">Get Your Term Life Quote</a>
+      </div>
+      <div>
+        <div style="background: linear-gradient(165deg, #1E3A5F 0%, #2A4F7A 100%); border-radius: 20px; padding: 48px; color: white;">
+          <div style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 16px;">Term vs. Whole Life</div>
+          <h3 style="color: white; font-size: 24px; margin-bottom: 20px;">The Smart Choice for Specific Needs</h3>
+          <p style="font-size: 15px; opacity: 0.85; margin-bottom: 28px; line-height: 1.7;">Term Life gives you the most protection for the lowest cost — perfect when you need coverage most during your working years and highest financial obligations.</p>
+          <ul style="list-style: none; font-size: 15px; line-height: 2;">
+            <li>✓ Up to 10x more coverage for the same price</li>
+            <li>✓ Match your mortgage term exactly</li>
+            <li>✓ Income replacement during working years</li>
+            <li>✓ Option to convert to permanent later</li>
+            <li>✓ Simple and easy to understand</li>
+          </ul>
+          <a href="/pages/contact-us" class="btn btn-primary" style="margin-top: 28px; width: 100%;">Get a Quote</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Get Affordable Coverage Today</h2>
+    <p>Term Life is often the smartest first step into life insurance. Find out how little it costs to protect your family.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Get My Free Quote</a>
+  </div>
+</section>

@@ -1,0 +1,57 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Mortgage Protection Insurance</h1>
+    <p>Your home is one of your most valuable assets — protect it. Coverage that pays off your mortgage if the unexpected happens.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        <h2 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 20px;">How Does Mortgage Protection Work?</h2>
+        <p>Mortgage Protection Insurance pays off your mortgage if something happens to you — ensuring your family keeps the home. It's designed to match your mortgage amount and term, providing a precise solution to protect your family and home from financial uncertainty.</p>
+
+        <h3 style="font-size: 22px; margin: 32px 0 16px;">Is Mortgage Protection Right for You?</h3>
+        <p>If you're a homeowner seeking a shield for your mortgage and financial peace of mind — this product is for you. Whether you're securing your mortgage, protecting your family's future, or ensuring a stable financial foundation — Mortgage Protection Insurance offers a practical and caring solution.</p>
+
+        <ul class="product-features">
+          <li>Pays off your mortgage balance directly to your family</li>
+          <li>Matches your specific mortgage amount and term</li>
+          <li>No medical exam options available for eligible applicants</li>
+          <li>Proceeds can be used however your family needs</li>
+          <li>Simplified underwriting — faster approval</li>
+          <li>Premiums that fit your budget</li>
+          <li>Peace of mind knowing your home is protected</li>
+        </ul>
+
+        <a href="/pages/contact-us" class="btn btn-primary">Get Your Mortgage Protection Quote</a>
+      </div>
+      <div>
+        <div style="background: linear-gradient(165deg, #1E3A5F 0%, #2A4F7A 100%); border-radius: 20px; padding: 48px; color: white;">
+          <div style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 16px;">Why Homeowners Choose MPI</div>
+          <h3 style="color: white; font-size: 24px; margin-bottom: 20px;">Keep Your Family in Their Home</h3>
+          <p style="font-size: 15px; opacity: 0.85; margin-bottom: 28px; line-height: 1.7;">Don't let the unexpected take the roof over your family's head. Mortgage Protection ensures they can stay — no matter what.</p>
+          <ul style="list-style: none; font-size: 15px; line-height: 2;">
+            <li>✓ Affordable coverage</li>
+            <li>✓ No health questionnaire required</li>
+            <li>✓ Quick approval process</li>
+            <li>✓ Works alongside life insurance</li>
+            <li>✓ Your family chooses how to use funds</li>
+          </ul>
+          <a href="/pages/contact-us" class="btn btn-primary" style="margin-top: 28px; width: 100%;">Learn More Today</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Protect Your Home Today</h2>
+    <p>Get a quote in minutes. Our licensed advisors will find the right coverage for your mortgage and your family.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Get My Free Quote</a>
+  </div>
+</section>

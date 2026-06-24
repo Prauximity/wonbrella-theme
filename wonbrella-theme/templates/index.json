@@ -1,0 +1,175 @@
+{% layout 'theme' %}
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-grid">
+      <div class="hero-content">
+        <div class="hero-badge">🏆 Trusted by NBA, NFL & UFC Athletes</div>
+        <h1 class="hero-title">Your family's future <span>protected</span> starts here.</h1>
+        <p class="hero-subtitle">Wonbrella brings the most gratifying protection process in the world. We don't disappear after you buy — we stand by your side for the lifetime of your policy.</p>
+        <div class="hero-actions">
+          <a href="/pages/contact-us" class="btn btn-primary">Get Protected Today</a>
+          <a href="#services" class="btn btn-secondary">Explore Services</a>
+        </div>
+        <div class="hero-stats">
+          <div>
+            <div class="hero-stat-value">50</div>
+            <div class="hero-stat-label">States Licensed</div>
+          </div>
+          <div>
+            <div class="hero-stat-value">A+</div>
+            <div class="hero-stat-label">Carrier Network</div>
+          </div>
+          <div>
+            <div class="hero-stat-value">24/7</div>
+            <div class="hero-stat-label">Support Team</div>
+          </div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-card">
+          <div style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 16px;">Compassion · Compliance · Customer Service</div>
+          <div class="hero-card-icon">🛡️</div>
+          <h3>The Three C's That Drive Everything</h3>
+          <p>Compliance first. Compassion always. Customer service that doesn't quit. That's the Wonbrella difference — and why families trust us with their most important decisions.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="trust-bar">
+  <div class="container">
+    <div class="trust-bar-inner">
+      <div class="trust-item"><div class="trust-icon">🛡️</div><span>A+ Rated Carriers Nationwide</span></div>
+      <div class="trust-item"><div class="trust-icon">✅</div><span>No Medical Exam Options Available</span></div>
+      <div class="trust-item"><div class="trust-icon">⚡</div><span>Apply in Minutes</span></div>
+      <div class="trust-item"><div class="trust-icon">💬</div><span>Licensed Advisors Ready to Help</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section services" id="services">
+  <div class="container">
+    <div class="services-header">
+      <p class="section-label">Our Services</p>
+      <h2 class="section-title">Protection for Every Stage of Life</h2>
+      <p class="section-subtitle">From your first home to your legacy — we have the right policy to match where you are and where you're going.</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🏠</div>
+        <h3>Mortgage Protection</h3>
+        <p>A uniquely styled term policy that covers your current mortgage length and value. Protect your home and your family's security.</p>
+        <a href="/pages/mortgage-protection" class="service-link">Learn More →</a>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">📈</div>
+        <h3>Index Universal Life</h3>
+        <p>Become your own bank. Tax-free earnings and withdrawals with downside protection. The most flexible wealth-building tool available.</p>
+        <a href="/pages/iul" class="service-link">Learn More →</a>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🕐</div>
+        <h3>Whole Life</h3>
+        <p>Coverage for the remainder of your lifetime. Guaranteed premiums with guaranteed interest — cash value that grows tax deferred.</p>
+        <a href="/pages/whole-life-policies" class="service-link">Learn More →</a>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">📋</div>
+        <h3>Term Policies</h3>
+        <p>Affordable, flexible coverage for 15 to 30 years. Ideal for specific obligations like mortgages, income replacement, and young families.</p>
+        <a href="/pages/term-policies" class="service-link">Learn More →</a>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">💐</div>
+        <h3>Final Expense</h3>
+        <p>Cover end-of-life expenses and remove the financial burden from your loved ones. Simpler to qualify for, easier to afford.</p>
+        <a href="/pages/final-expense" class="service-link">Learn More →</a>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🏦</div>
+        <h3>Direct Lending & Banking</h3>
+        <p>Partnered with i3 Lending — Lori Marotta, the Mom of Mortgages. Refinancing, HELOC, and lending solutions aligned with your protection plan.</p>
+        <a href="/pages/direct-lending-banking" class="service-link">Learn More →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section how-it-works">
+  <div class="container">
+    <div class="services-header">
+      <p class="section-label">How It Works</p>
+      <h2 class="section-title">Coverage in Three Steps</h2>
+      <p class="section-subtitle">From first conversation to fully protected — our process is fast, clear, and built around your life.</p>
+    </div>
+    <div class="how-grid">
+      <div class="how-step">
+        <div class="how-step-number">1</div>
+        <h3>Get Your Quote</h3>
+        <p>Provide your basic information and we run it through our carrier network to find the best match for your profile.</p>
+      </div>
+      <div class="how-step">
+        <div class="how-step-number">2</div>
+        <h3>Speak With an Advisor</h3>
+        <p>A licensed Wonbrella advisor reviews your options, answers every question, and helps you choose the right path.</p>
+      </div>
+      <div class="how-step">
+        <div class="how-step-number">3</div>
+        <h3>Get Protected</h3>
+        <p>Your application goes in — our team handles the rest. You get coverage and a lifelong partner in your corner.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section testimonials">
+  <div class="container">
+    <div class="services-header">
+      <p class="section-label">Testimonials</p>
+      <h2 class="section-title">What Our Clients Say</h2>
+      <p class="section-subtitle">Real families. Real protection. Real peace of mind.</p>
+    </div>
+    <div class="testimonials-grid">
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">I had health complications I thought would prevent me from getting protected. Thanks to Austin and Wonbrella, me and my family are covered.</p>
+        <p class="testimonial-author">Amanda Williams</p>
+      </div>
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">Protecting my mortgage never felt easier. 10/10 recommend — Wonbrella made a process I dreaded feel completely painless.</p>
+        <p class="testimonial-author">Justin Brass</p>
+      </div>
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">Austin took the time to guide me to the right policy. I wanted term — he showed me why an IUL was better for my situation.</p>
+        <p class="testimonial-author">Melissa Hendrix</p>
+      </div>
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">Austin's knowledge cleared all the confusion. He set me up for success protecting my entire family with a plan I actually understand.</p>
+        <p class="testimonial-author">Nicolas Webber</p>
+      </div>
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">We had a bad experience with another agent. Austin rejuvenated our trust — thorough, patient, and genuinely invested in our outcome.</p>
+        <p class="testimonial-author">Kayla Sharp</p>
+      </div>
+      <div class="testimonial-card">
+        <div class="testimonial-stars">★★★★★</div>
+        <p class="testimonial-text">Insurance felt tedious until Wonbrella. They brought clarity to something I've always avoided and made it feel simple.</p>
+        <p class="testimonial-author">David Chen</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Ready to Win at Protection?</h2>
+    <p>Your family's safety net starts with one conversation. Speak with a licensed advisor today — no pressure, no jargon, just clarity.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Schedule Your Free Consultation</a>
+  </div>
+</section>

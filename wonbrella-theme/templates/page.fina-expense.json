@@ -1,0 +1,58 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Final Expense Insurance</h1>
+    <p>Cover your end-of-life costs. Remove the financial burden from your loved ones and leave them with peace of mind.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        <h2 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 20px;">How Does Final Expense Work?</h2>
+        <p>Final Expense insurance is designed to cover end-of-life expenses. It offers a death benefit that helps cover funeral and burial costs, outstanding debts, and other related expenses.</p>
+        <p>These policies are typically smaller in coverage and easier to qualify for than traditional life insurance — making them accessible and practical for people of all ages and health backgrounds.</p>
+
+        <h3 style="font-size: 22px; margin: 32px 0 16px;">Is Final Expense Right for You?</h3>
+        <p>Whether you're concerned about funeral costs, outstanding debts, or ensuring your family's financial well-being — Final Expense Insurance provides a compassionate solution that ensures your loved ones aren't forced to make difficult financial decisions during an already difficult time.</p>
+
+        <ul class="product-features">
+          <li>Smaller, manageable coverage amounts</li>
+          <li>Easier to qualify for than traditional life insurance</li>
+          <li>No medical exam required in most cases</li>
+          <li>Covers funeral costs, burial, and related expenses</li>
+          <li>Helps protect your family from unexpected debt</li>
+          <li>Guaranteed acceptance options available</li>
+          <li>Affordable premiums that don't break the budget</li>
+        </ul>
+
+        <a href="/pages/contact-us" class="btn btn-primary">Get Your Final Expense Quote</a>
+      </div>
+      <div>
+        <div style="background: linear-gradient(165deg, #1E3A5F 0%, #2A4F7A 100%); border-radius: 20px; padding: 48px; color: white;">
+          <div style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 16px;">Why Final Expense Matters</div>
+          <h3 style="color: white; font-size: 24px; margin-bottom: 20px;">Protect Your Family From Added Grief</h3>
+          <p style="font-size: 15px; opacity: 0.85; margin-bottom: 28px; line-height: 1.7;">Funeral costs can exceed $10,000. Final Expense coverage ensures your loved ones aren't forced to make difficult financial decisions during an already difficult time.</p>
+          <ul style="list-style: none; font-size: 15px; line-height: 2;">
+            <li>✓ Simplified health underwriting</li>
+            <li>✓ No medical exam needed</li>
+            <li>✓ Guaranteed issue options</li>
+            <li>✓ Benefits paid promptly</li>
+            <li>✓ Keeps your family protected</li>
+          </ul>
+          <a href="/pages/contact-us" class="btn btn-primary" style="margin-top: 28px; width: 100%;">Learn More Today</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Start Your Free Quote Today</h2>
+    <p>Find out how affordable Final Expense coverage can be. Get a personalized quote in minutes.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Get My Free Quote</a>
+  </div>
+</section>

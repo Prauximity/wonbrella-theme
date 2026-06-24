@@ -1,0 +1,85 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Index Universal Life (IUL)</h1>
+    <p>Become your own bank. Tax-free earnings and withdrawals with market-linked growth — and downside protection built in.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        <h2 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 20px;">How Does an IUL Work?</h2>
+        <p>An Index Universal Life (IUL) policy combines life insurance with an investment opportunity. It provides a death benefit and a cash value that can grow based on stock market performance — offering potential for higher returns with downside protection.</p>
+        <p>The flexibility in premium payments, tax advantages, and the ability to access cash value during your lifetime make IUL versatile for long-term financial planning, including retirement.</p>
+
+        <h3 style="font-size: 22px; margin: 32px 0 16px;">Is an IUL Right for You?</h3>
+        <p>If you have a traditional bank account with savings and a family you love — an IUL is for you. It allows your money to work for you behind the scenes while you protect yourself and loved ones through a dynamic legacy-building vehicle.</p>
+
+        <ul class="product-features">
+          <li>Tax-free earnings and withdrawals</li>
+          <li>Downside protection — never lose money to market downturns</li>
+          <li>No contribution limits like a 401(k)</li>
+          <li>No required withdrawals during your lifetime</li>
+          <li>Death benefit protects your family</li>
+          <li>Access cash value for major life events</li>
+          <li>Flexible premium payments</li>
+        </ul>
+
+        <a href="/pages/contact-us" class="btn btn-primary">Get Your IUL Quote</a>
+      </div>
+      <div>
+        <div style="background: linear-gradient(165deg, #1E3A5F 0%, #2A4F7A 100%); border-radius: 20px; padding: 48px; color: white;">
+          <div style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 16px;">Why IUL Beats a 401(k)</div>
+          <h3 style="color: white; font-size: 24px; margin-bottom: 20px;">More Flexibility. More Control.</h3>
+          <ul style="list-style: none; font-size: 15px; line-height: 2;">
+            <li>✓ No contribution limits</li>
+            <li>✓ No required withdrawals</li>
+            <li>✓ Tax-free cash access</li>
+            <li>✓ Market-linked growth</li>
+            <li>✓ Downside protection</li>
+            <li>✓ Death benefit included</li>
+          </ul>
+          <a href="/pages/contact-us" class="btn btn-primary" style="margin-top: 28px; width: 100%;">Learn More Today</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="background: var(--bg-alt);">
+  <div class="container">
+    <div class="services-header">
+      <p class="section-label">FAQ</p>
+      <h2 class="section-title">Common Questions About IUL</h2>
+    </div>
+    <div style="max-width: 760px; margin: 0 auto;">
+      <div class="faq-item">
+        <button class="faq-question">How does the cash value in an IUL policy grow?<span>+</span></button>
+        <div class="faq-answer">Cash value grows based on the performance of a selected market index (such as the S&P 500). However, you don't invest directly in the market — you earn credits based on index performance, with a cap on upside and a floor (usually 0%) on downside.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">Can I lose money if the market performs poorly?<span>+</span></button>
+        <div class="faq-answer">No. IUL policies have a floor, typically 0%, which means your cash value never decreases due to market downturns.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">What is the participation rate?<span>+</span></button>
+        <div class="faq-answer">The participation rate determines how much of the index gain you receive credit for. For example, a 100% participation rate means you get all the index gains up to the cap.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-question">Are withdrawals from the cash value taxable?<span>+</span></button>
+        <div class="faq-answer">In most cases, policy loans and withdrawals are tax-free up to your total premiums paid. Consult a tax advisor for your specific situation.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>See If an IUL Is Right for You</h2>
+    <p>Schedule a free consultation with a licensed Wonbrella advisor.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Schedule Free Consultation</a>
+  </div>
+</section>

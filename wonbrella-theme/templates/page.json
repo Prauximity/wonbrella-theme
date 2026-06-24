@@ -1,0 +1,47 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+  </div>
+</section>
+
+<section class="section" style="background: var(--bg);">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        {{ page.content }}
+      </div>
+      <div>
+        <div style="background: var(--bg-alt); border-radius: 16px; padding: 40px; border: 1px solid var(--border);">
+          <h3 style="font-family: 'Plus Jakarta Sans', sans-serif; font-size: 18px; margin-bottom: 20px;">Ready to Get Started?</h3>
+          <p style="color: var(--text-light); font-size: 15px; margin-bottom: 24px;">Speak with a licensed Wonbrella advisor. No pressure. No jargon. Just clarity on the right protection for your situation.</p>
+          <a href="/pages/contact-us" class="btn btn-primary" style="width: 100%;">Contact Us Today</a>
+          <div style="margin-top: 24px; padding-top: 24px; border-top: 1px solid var(--border);">
+            <p style="font-size: 14px; color: var(--text-light);">Or call us directly:</p>
+            <a href="tel:+15619014050" style="font-size: 20px; font-weight: 700; color: var(--primary); text-decoration: none;">+1 (561) 901-4050</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="trust-bar">
+  <div class="container">
+    <div class="trust-bar-inner">
+      <div class="trust-item"><div class="trust-icon">🛡️</div><span>A+ Rated Carriers Nationwide</span></div>
+      <div class="trust-item"><div class="trust-icon">✅</div><span>No Medical Exam Options</span></div>
+      <div class="trust-item"><div class="trust-icon">⚡</div><span>Apply in Minutes</span></div>
+      <div class="trust-item"><div class="trust-icon">💬</div><span>Licensed Advisors Available</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Questions? We're Here to Help.</h2>
+    <p>Every family's situation is different. Get a personalized breakdown of which protection path fits your life.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Speak With an Advisor</a>
+  </div>
+</section>

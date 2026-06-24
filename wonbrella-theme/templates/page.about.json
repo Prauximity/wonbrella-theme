@@ -1,0 +1,108 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>About Wonbrella</h1>
+    <p>Three C's. One mission. A company built to protect the families others overlook.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        <p class="section-label">Our Mission</p>
+        <h2 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 20px;">Compliance First. Compassion Always.</h2>
+        <p>We have strict goals as a "Compliance First" company. Our mission is to educate the customer in what's best for them and their family. Every person differs in their approach on insurance coverage. <strong>Proper guidance = Proper execution.</strong></p>
+        <p>At Wonbrella, we don't disappear after the sale. We stick by your side throughout the lifetime of your policy and are here for any questions about your current policy in-force — and even for your friends and loved ones who need the same service you've experienced.</p>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; margin-top: 48px;">
+          <div style="text-align: center; padding: 32px 20px; background: var(--bg-alt); border-radius: 16px; border: 1px solid var(--border);">
+            <div style="font-size: 36px; margin-bottom: 12px;">🤝</div>
+            <h4 style="font-family: 'Plus Jakarta Sans', sans-serif; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--primary);">Compassion</h4>
+            <p style="font-size: 13px; color: var(--text-light); margin-top: 8px;">We care about your family as if they were our own.</p>
+          </div>
+          <div style="text-align: center; padding: 32px 20px; background: var(--bg-alt); border-radius: 16px; border: 1px solid var(--border);">
+            <div style="font-size: 36px; margin-bottom: 12px;">✅</div>
+            <h4 style="font-family: 'Plus Jakarta Sans', sans-serif; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--primary);">Compliance</h4>
+            <p style="font-size: 13px; color: var(--text-light); margin-top: 8px;">Licensed in all 50 states. Every agent, every 24 months.</p>
+          </div>
+          <div style="text-align: center; padding: 32px 20px; background: var(--bg-alt); border-radius: 16px; border: 1px solid var(--border);">
+            <div style="font-size: 36px; margin-bottom: 12px;">💬</div>
+            <h4 style="font-family: 'Plus Jakarta Sans', sans-serif; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--primary);">Customer Service</h4>
+            <p style="font-size: 13px; color: var(--text-light); margin-top: 8px;">We stay with you for the life of your policy.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div style="background: linear-gradient(165deg, #1E3A5F 0%, #2A4F7A 100%); border-radius: 20px; padding: 48px; color: white; text-align: center;">
+          <p style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 24px;">Trusted By The Best</p>
+          <h3 style="color: white; font-size: 28px; margin-bottom: 16px;">NBA. NFL. UFC.</h3>
+          <p style="font-size: 15px; opacity: 0.85; margin-bottom: 32px; line-height: 1.7;">Wonbrella is trusted by professional athletes across the most respected leagues in the world — including the Miami Heat, Miami Dolphins, New York Giants, and UFC middleweight division.</p>
+          <a href="/pages/contact-us" class="btn btn-primary">Meet Our Team</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="background: var(--bg-alt);">
+  <div class="container">
+    <div class="services-header">
+      <p class="section-label">How It Works</p>
+      <h2 class="section-title">Coverage in 3 Easy Steps</h2>
+    </div>
+    <div class="how-grid">
+      <div class="how-step">
+        <div class="how-step-number">1</div>
+        <h3>Get a Quote</h3>
+        <p>Provide your basic information and we find the best match from our carrier network.</p>
+      </div>
+      <div class="how-step">
+        <div class="how-step-number">2</div>
+        <h3>Apply in Minutes</h3>
+        <p>Our advisors are on standby. We handle the paperwork — you just answer a few questions.</p>
+      </div>
+      <div class="how-step">
+        <div class="how-step-number">3</div>
+        <h3>Get Protected</h3>
+        <p>Your policy goes in. Our team stays with you for the life of the coverage.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="services-header">
+      <p class="section-label">Why Wonbrella</p>
+      <h2 class="section-title">How We're Different</h2>
+      <p class="section-subtitle">Most agencies sell you a policy and move on. We don't do that.</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🏆</div>
+        <h3>Endorsed by A+ Carriers</h3>
+        <p>We have every A+ rated carrier under our belt with the best contracts available. Whether you're extremely healthy or have complications on your file — access to every type of carrier awaits.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🌍</div>
+        <h3>Licensed in All 50 States</h3>
+        <p>All of our agents are licensed across every single state in the nation. Compliance and continuing education is performed every 24 months — guaranteed.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">⏰</div>
+        <h3>24/7 Support Team</h3>
+        <p>We have the most caring and compliant support team working all hours to make sure you get all the feedback you need regarding your policy and its features.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Ready to Win With Wonbrella?</h2>
+    <p>Join the families, athletes, and homeowners who trust Wonbrella to protect what matters most.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Get Started Today</a>
+  </div>
+</section>

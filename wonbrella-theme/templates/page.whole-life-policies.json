@@ -1,0 +1,58 @@
+{% layout 'theme' %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Whole Life Insurance</h1>
+    <p>Protection for the remainder of your lifetime. Guaranteed premiums. Guaranteed growth. A foundation for your family's financial future.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="product-detail">
+      <div class="product-content">
+        <h2 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 20px;">How Does Whole Life Work?</h2>
+        <p>Whole Life insurance covers you for life — offering a death benefit and a growing cash value. Unlike term insurance, it accumulates cash value over time and provides a guaranteed return on your premium.</p>
+        <p>Premiums are steady throughout the life of the policy, making it a stable and predictable choice for lifelong coverage, cash growth, and estate planning.</p>
+
+        <h3 style="font-size: 22px; margin: 32px 0 16px;">Is Whole Life Right for You?</h3>
+        <p>Whole Life Insurance is more than a policy — it's a long-term investment in your family's future. The policy is ideal for those prioritizing stability, legacy planning, and permanent coverage.</p>
+
+        <ul class="product-features">
+          <li>Guaranteed death benefit for your entire life</li>
+          <li>Guaranteed cash value growth</li>
+          <li>Tax-deferred cash accumulation</li>
+          <li>Level, predictable premiums</li>
+          <li>Tax-free death benefit to beneficiaries</li>
+          <li>Can be used as part of an estate plan</li>
+          <li>Builds financial legacy for generations</li>
+        </ul>
+
+        <a href="/pages/contact-us" class="btn btn-primary">Get Your Whole Life Quote</a>
+      </div>
+      <div>
+        <div style="background: linear-gradient(165deg, #1E3A5F 0%, #2A4F7A 100%); border-radius: 20px; padding: 48px; color: white;">
+          <div style="font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #C9A84C; margin-bottom: 16px;">The Whole Life Difference</div>
+          <h3 style="color: white; font-size: 24px; margin-bottom: 20px;">Permanent Coverage. Lifetime Security.</h3>
+          <p style="font-size: 15px; opacity: 0.85; margin-bottom: 28px; line-height: 1.7;">Unlike term insurance that expires, Whole Life stays with you. It's the only policy that guarantees your family will receive a benefit — no matter when you pass away.</p>
+          <ul style="list-style: none; font-size: 15px; line-height: 2;">
+            <li>✓ Guaranteed lifetime coverage</li>
+            <li>✓ Guaranteed cash value growth</li>
+            <li>✓ Level premiums</li>
+            <li>✓ Estate planning tool</li>
+            <li>✓ Tax-advantaged savings</li>
+          </ul>
+          <a href="/pages/contact-us" class="btn btn-primary" style="margin-top: 28px; width: 100%;">Get a Quote</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="container">
+    <h2>Secure Your Family's Future Forever</h2>
+    <p>Whole Life is a foundational piece of a complete financial plan. Talk to a Wonbrella advisor about whether it's right for you.</p>
+    <a href="/pages/contact-us" class="btn btn-primary">Speak With an Advisor</a>
+  </div>
+</section>
